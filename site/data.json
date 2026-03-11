@@ -10083,10 +10083,12 @@
       }
     }
   },
-  "generated_at": "2026-03-11T21:33:32.768275+00:00",
+  "generated_at": "2026-03-11T22:07:23.690668+00:00",
   "other_bucket": "OtherSports",
+  "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
   "source": "strava",
+  "strava_profile_url": "https://www.strava.com/athletes/16978962",
   "type_meta": {
     "Hike": {
       "accent": "#d6ff6b",
@@ -10127,10 +10129,10 @@
     "WeightTraining"
   ],
   "units": {
-    "distance": "mi",
-    "elevation": "ft"
+    "distance": "km",
+    "elevation": "m"
   },
-  "week_start": "sunday",
+  "week_start": "monday",
   "years": [
     2017,
     2018,
