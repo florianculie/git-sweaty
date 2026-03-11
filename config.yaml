@@ -5,7 +5,7 @@ strava:
   client_id: ""
   client_secret: ""
   refresh_token: ""
-  profile_url: "" # optional dashboard header profile link
+  profile_url: "https://www.strava.com/athletes/16978962" # optional dashboard header profile link
   include_activity_urls: false # when true, tooltip details can show links to individual Strava activities
 
 garmin:
@@ -93,8 +93,8 @@ activities:
   type_aliases: {}          # optional explicit remaps; keep empty for exact source naming
 
 units:
-  distance: "mi"   # "mi" or "km"
-  elevation: "ft"  # "ft" or "m"
+  distance: "km"   # "mi" or "km"
+  elevation: "m"  # "ft" or "m"
 
 heatmaps:
-  week_start: "sunday" # "sunday" or "monday"
+  week_start: "monday" # "sunday" or "monday"
