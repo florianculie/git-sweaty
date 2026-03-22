@@ -8760,5 +8760,31 @@
     "start_date_local": "2026-03-18T18:42:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 3080.8,
+    "elevation_gain": 11.0,
+    "id": "17804590795",
+    "moving_time": 1158.0,
+    "name": "Course \u00e0 pied le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T09:44:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 47282.8,
+    "elevation_gain": 693.0,
+    "id": "17804598832",
+    "moving_time": 18990.0,
+    "name": "EcoTrail 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-21T10:10:31Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
