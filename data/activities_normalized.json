@@ -8838,5 +8838,31 @@
     "start_date_local": "2026-03-28T10:51:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 1500.0,
+    "elevation_gain": 0.0,
+    "id": "17897681439",
+    "moving_time": 3360.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-29T10:25:25Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 11265.8,
+    "elevation_gain": 395.0,
+    "id": "17900874113",
+    "moving_time": 4742.0,
+    "name": "Lyon Urban Trail 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T13:35:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
