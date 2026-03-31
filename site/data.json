@@ -6137,6 +6137,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17900874113",
       "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 19,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17915998175",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 12,
+      "name": "Course \u00e0 pied le midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17915998190",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 12,
+      "name": "Course \u00e0 pied le midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17923260635",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11494,6 +11521,25 @@
           "distance": 11265.8,
           "elevation_gain": 395.0,
           "moving_time": 4742.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17915998175",
+            "17915998190"
+          ],
+          "count": 2,
+          "distance": 15767.7,
+          "elevation_gain": 100.0,
+          "moving_time": 5297.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17923260635"
+          ],
+          "count": 1,
+          "distance": 8753.0,
+          "elevation_gain": 35.0,
+          "moving_time": 2925.0
         }
       },
       "Swim": {
@@ -11639,7 +11685,7 @@
       }
     }
   },
-  "generated_at": "2026-03-30T16:02:13.942200+00:00",
+  "generated_at": "2026-03-31T16:01:09.412657+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
