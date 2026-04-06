@@ -6209,6 +6209,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17989007103",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 16,
+      "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18001496280",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11622,6 +11631,15 @@
           "distance": 5901.7,
           "elevation_gain": 22.0,
           "moving_time": 1938.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18001496280"
+          ],
+          "count": 1,
+          "distance": 11343.3,
+          "elevation_gain": 30.0,
+          "moving_time": 4234.0
         }
       },
       "Swim": {
@@ -11767,7 +11785,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:25:43.910623+00:00",
+  "generated_at": "2026-04-06T15:39:46.958262+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
