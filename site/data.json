@@ -6236,6 +6236,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18025428361",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 19,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18031278363",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11670,12 +11679,13 @@
         },
         "2026-04-08": {
           "activity_ids": [
-            "18025428361"
+            "18025428361",
+            "18031278363"
           ],
-          "count": 1,
-          "distance": 9463.9,
-          "elevation_gain": 33.0,
-          "moving_time": 3308.0
+          "count": 2,
+          "distance": 18094.3,
+          "elevation_gain": 58.0,
+          "moving_time": 6693.0
         }
       },
       "Swim": {
@@ -11821,7 +11831,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T16:10:57.510084+00:00",
+  "generated_at": "2026-04-09T16:14:10.102224+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
