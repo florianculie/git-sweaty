@@ -6389,6 +6389,51 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18210387899",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 19,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18216008164",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 12,
+      "name": "Sortie v\u00e9lo le midi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18224320557",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 19,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18229765367",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 12,
+      "name": "Course \u00e0 pied le midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18237471423",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 13,
+      "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18237478431",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11264,6 +11309,15 @@
           "distance": 30138.1,
           "elevation_gain": 609.0,
           "moving_time": 5496.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18224320557"
+          ],
+          "count": 1,
+          "distance": 26724.6,
+          "elevation_gain": 547.0,
+          "moving_time": 4945.0
         }
       },
       "Run": {
@@ -11951,12 +12005,32 @@
         },
         "2026-04-22": {
           "activity_ids": [
-            "18210387899"
+            "18210387899",
+            "18216008164"
+          ],
+          "count": 2,
+          "distance": 17487.5,
+          "elevation_gain": 39.0,
+          "moving_time": 6410.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18229765367"
           ],
           "count": 1,
-          "distance": 8907.0,
-          "elevation_gain": 14.0,
-          "moving_time": 3016.0
+          "distance": 14104.2,
+          "elevation_gain": 32.0,
+          "moving_time": 5252.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18237471423",
+            "18237478431"
+          ],
+          "count": 2,
+          "distance": 8805.0,
+          "elevation_gain": 21.0,
+          "moving_time": 2891.0
         }
       },
       "Swim": {
@@ -12111,7 +12185,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:04:11.291287+00:00",
+  "generated_at": "2026-04-24T16:00:22.573448+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",

@@ -9228,5 +9228,70 @@
     "start_date_local": "2026-04-22T12:25:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 8580.5,
+    "elevation_gain": 25.0,
+    "id": "18216008164",
+    "moving_time": 3394.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T19:26:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 26724.6,
+    "elevation_gain": 547.0,
+    "id": "18224320557",
+    "moving_time": 4945.0,
+    "name": "Sortie v\u00e9lo le midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T12:04:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 14104.2,
+    "elevation_gain": 32.0,
+    "id": "18229765367",
+    "moving_time": 5252.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T19:05:38Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 7745.8,
+    "elevation_gain": 15.0,
+    "id": "18237471423",
+    "moving_time": 2500.0,
+    "name": "Course \u00e0 pied le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T12:14:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 1059.2,
+    "elevation_gain": 6.0,
+    "id": "18237478431",
+    "moving_time": 391.0,
+    "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T13:13:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
