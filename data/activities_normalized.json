@@ -9293,5 +9293,31 @@
     "start_date_local": "2026-04-24T13:13:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 13588.6,
+    "elevation_gain": 346.0,
+    "id": "18253169201",
+    "moving_time": 3346.0,
+    "name": "Sortie v\u00e9lo le midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T11:44:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 14394.0,
+    "elevation_gain": 55.0,
+    "id": "18253169802",
+    "moving_time": 2221.0,
+    "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T14:38:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

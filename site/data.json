@@ -6434,6 +6434,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18237478431",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 11,
+      "name": "Sortie v\u00e9lo le midi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18253169201",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 14,
+      "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18253169802",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11318,6 +11336,16 @@
           "distance": 26724.6,
           "elevation_gain": 547.0,
           "moving_time": 4945.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18253169201",
+            "18253169802"
+          ],
+          "count": 2,
+          "distance": 27982.6,
+          "elevation_gain": 401.0,
+          "moving_time": 5567.0
         }
       },
       "Run": {
@@ -12185,7 +12213,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T16:00:22.573448+00:00",
+  "generated_at": "2026-04-25T15:34:00.332357+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
