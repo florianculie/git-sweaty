@@ -9358,5 +9358,31 @@
     "start_date_local": "2026-04-27T12:12:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 7141.3,
+    "elevation_gain": 4.0,
+    "id": "18282184026",
+    "moving_time": 2686.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T19:34:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 9345.2,
+    "elevation_gain": 20.0,
+    "id": "18290770989",
+    "moving_time": 3147.0,
+    "name": "Course \u00e0 pied le midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T12:31:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
