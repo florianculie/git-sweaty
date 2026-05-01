@@ -9410,5 +9410,31 @@
     "start_date_local": "2026-04-29T19:24:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 25062.7,
+    "elevation_gain": 467.0,
+    "id": "18322718186",
+    "moving_time": 5171.0,
+    "name": "Sortie v\u00e9lo en soir\u00e9e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T19:05:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 12973.6,
+    "elevation_gain": 1036.0,
+    "id": "18332931337",
+    "moving_time": 10945.0,
+    "name": "Course \u00e0 pied le matin",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T10:44:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
