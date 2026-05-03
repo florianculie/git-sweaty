@@ -9449,5 +9449,18 @@
     "start_date_local": "2026-05-02T09:27:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 57266.0,
+    "elevation_gain": 1129.0,
+    "id": "18356812503",
+    "moving_time": 10255.0,
+    "name": "Thonon race 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T09:01:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
