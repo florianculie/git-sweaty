@@ -6560,6 +6560,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18370502426",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 12,
+      "name": "Course \u00e0 pied le midi",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18383943946",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12250,6 +12259,15 @@
           "distance": 9327.4,
           "elevation_gain": 29.0,
           "moving_time": 3286.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18383943946"
+          ],
+          "count": 1,
+          "distance": 10641.3,
+          "elevation_gain": 15.0,
+          "moving_time": 3614.0
         }
       },
       "Swim": {
@@ -12413,7 +12431,7 @@
       }
     }
   },
-  "generated_at": "2026-05-04T16:26:45.015056+00:00",
+  "generated_at": "2026-05-05T16:19:52.485072+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
