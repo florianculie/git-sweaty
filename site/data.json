@@ -6614,6 +6614,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18428669568",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 10,
+      "name": "Course \u00e0 pied le matin",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18450656800",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12350,6 +12359,15 @@
           "distance": 9293.8,
           "elevation_gain": 76.0,
           "moving_time": 3755.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18450656800"
+          ],
+          "count": 1,
+          "distance": 26771.4,
+          "elevation_gain": 115.0,
+          "moving_time": 9931.0
         }
       },
       "Swim": {
@@ -12513,7 +12531,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:43:30.757067+00:00",
+  "generated_at": "2026-05-10T15:44:17.469464+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
