@@ -9722,5 +9722,31 @@
     "start_date_local": "2026-06-03T12:24:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 3929.6,
+    "elevation_gain": 17.0,
+    "id": "18822853502",
+    "moving_time": 1521.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T10:48:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 42484.2,
+    "elevation_gain": 233.0,
+    "id": "18822862635",
+    "moving_time": 13905.0,
+    "name": "Marathon de la libert\u00e9 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:15:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

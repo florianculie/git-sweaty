@@ -6731,6 +6731,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18768399910",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18822853502",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 9,
+      "name": "Marathon de la libert\u00e9 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18822862635",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12576,6 +12594,24 @@
           "distance": 9414.1,
           "elevation_gain": 74.0,
           "moving_time": 3339.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18822853502"
+          ],
+          "count": 1,
+          "distance": 3929.6,
+          "elevation_gain": 17.0,
+          "moving_time": 1521.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18822862635"
+          ],
+          "count": 1,
+          "distance": 42484.2,
+          "elevation_gain": 233.0,
+          "moving_time": 13905.0
         }
       },
       "Swim": {
@@ -12739,7 +12775,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T16:02:45.125176+00:00",
+  "generated_at": "2026-06-07T16:08:30.835096+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
