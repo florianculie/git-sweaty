@@ -6794,6 +6794,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18969927805",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19013315403",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -11733,6 +11742,15 @@
           "distance": 45465.9,
           "elevation_gain": 428.0,
           "moving_time": 8010.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19013315403"
+          ],
+          "count": 1,
+          "distance": 50948.8,
+          "elevation_gain": 654.0,
+          "moving_time": 9421.0
         }
       },
       "Run": {
@@ -12865,7 +12883,7 @@
       }
     }
   },
-  "generated_at": "2026-06-21T16:26:14.917306+00:00",
+  "generated_at": "2026-06-22T18:41:47.063213+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
