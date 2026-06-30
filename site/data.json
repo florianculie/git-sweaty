@@ -6848,6 +6848,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19108888952",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19121838274",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12810,6 +12819,15 @@
           "distance": 9430.1,
           "elevation_gain": 74.0,
           "moving_time": 3204.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19121838274"
+          ],
+          "count": 1,
+          "distance": 6060.0,
+          "elevation_gain": 51.0,
+          "moving_time": 2158.0
         }
       },
       "Swim": {
@@ -12973,7 +12991,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T17:29:55.557244+00:00",
+  "generated_at": "2026-06-30T17:04:17.316454+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/16978962",
   "repo": "florianculie/git-sweaty",
